@@ -7,7 +7,7 @@ Right now I'm building **[Aska](https://aska.stlytsou.com)**, a visual workspace
 ## Aska
 
 <a href="https://github.com/styltsou/aska">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=styltsou&repo=aska&theme=transparent&hide_border=true" />
+  <img src="https://opengraph.githubassets.com/1/styltsou/aska" alt="Aska repository preview" />
 </a>
 
 Aska is built around an infinite canvas for organizing visual references into collections and folders.
@@ -30,13 +30,6 @@ I'm also planning to add **real-time multiplayer collaboration**, so multiple pe
 </p>
 
 TypeScript · React · Bun · Hono · PostgreSQL · AWS · Docker
-
-## GitHub
-
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=styltsou&show_icons=true&hide_title=true&hide_border=true&theme=transparent"
-  height="150"
-/>
 
 ## Elsewhere
 
