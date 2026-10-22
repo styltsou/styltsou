@@ -2,7 +2,7 @@
 
 Software engineer from Greece, mostly working with TypeScript and React.
 
-Right now I'm building <a href="https://aska.styltsou.com" target="_blank" rel="noopener noreferrer"><strong>Aska</strong></a>, a visual workspace for saving and organizing images, links, notes, and references.
+Right now I'm building <a href="https://aska.styltsou.com" target="_blank" rel="noopener noreferrer"><strong>Aska</strong></a>, a visual workspace for saving and organizing images, links, notes, and other references.
 
 ## Aska
 
